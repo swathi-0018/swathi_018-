@@ -68,8 +68,7 @@ Code. Simulate. Repeat.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swathi-0018&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=swathi-0018&theme=tokyonight)
-
+![GitHub Streak] (https://streak-stats.demolab.com?user=swathi-0018&theme=tokyonight&cache_bust=1721670000 )
 ## 🌱 Motto
 > Code. Simulate. Build. Repeat. ⚡
 ```
