@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on **DSA & Projects**<br><br>👯 Collaborating on **Open Source**<br><br>🤝 Need help with **System Design**<br><br>🌱 Learning **Full-Stack Development**<br><br>💬 Ask me about **C++, Web Dev & Git**<br><br>⚡ Fun fact: **Always learning 🚀**
+🔭 Working on **DSA & Projects**<br><br>👯 Collaborating on **Open Source**<br><br>🤝 Need help with **System Design**<br><br>🌱 Learning **Full-Stack Development**<br><br>💬 Ask me about **C++, Web Dev & Git**<br><br>⚡ Fun fact: **Always learning & adopting 🚀**
 
 
 ## 🌐 Socials:
